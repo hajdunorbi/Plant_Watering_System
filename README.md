@@ -1,2 +1,2 @@
-# Plant_watering_system
+# Plant_Watering_System
 GKNB_INTM020 Mikroelektromechanikai rendszerek
